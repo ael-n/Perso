@@ -1,0 +1,25 @@
+.carte {
+  width: 300px;
+  background-color: white;
+  border: 2px solid #333;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 5px 5px 10px gray;
+}
+
+.nom {
+  font-size: 24px;
+  font-weight: bold;
+  color: darkblue;
+}
+
+.poste {
+  color: #666;
+  font-style: italic;
+}
+
+.contact {
+  background-color: #f0f0f0;
+  padding: 10px;
+  margin-top: 15px;
+}
